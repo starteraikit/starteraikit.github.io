@@ -1,0 +1,15 @@
+{
+  "name": "starteraikit",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^3.5.1"
+  },
+  "devDependencies": {
+    "@astrojs/github": "^1.0.0"
+  }
+}
